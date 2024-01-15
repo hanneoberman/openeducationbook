@@ -32,14 +32,19 @@ One of the primary advantages of using GitHub Pages for hosting educational cont
 
 Moreover, GitHub Pages supports custom domain names and offers a range of themes and layouts, allowing educators to personalize their site to align with their course's branding or their institution's visual identity. This feature enhances the user experience for students and other stakeholders who visit these educational websites.
 
+For a quickstart with open educational materials on GitHub, you can use a [template repository](https://github.com/hanneoberman/open_education_template). Such a template sets up a folder structure for hosting educational contents with GitHub Pages. Then, you only have to fill in the course contents, and your course website can be live right away.
+
+<FONT COLOR="#ff0000">
 **VOORBEELDEN GEVEN VAN CURSUSSEN DIE OP GITHUB GEHOST ZIJN**
 
 **Template maken op Github van een cursus als tabel met slides en opdrachten**
 **gif maken wat flow van template toepassen uiteenzet**
 
+</FONT>
+
 :::
 
-### How to host your own website on GitHub Pages
+<!-- ### How to host your own website on GitHub Pages -->
 
 
 ## Open Science Framework
