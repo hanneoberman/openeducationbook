@@ -1,3 +1,5 @@
+![](cover.png)
+
 # Preface {.unnumbered}
 
 With pride, we present to you this book on Open Educational Resources (OER). This book has been written and designed with the assistance of generative AI, which has helped us explain all the information related to this topic in a clear manner. We also used generative AI to create some of the graphics in this book. Naturally, we have undertaken the editing process for AI-assisted parts to ensure the accuracy of the information. Thus, we take full responsibility for the content presented in this book.
